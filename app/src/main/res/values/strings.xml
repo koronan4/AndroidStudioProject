@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Calculateur IMC</string>
+    <string name="weight">Poid</string>
+    <string name="height">Taille</string>
+    <string name="calculerIMC">Calculer IMC</string>
+
+    <string name="very_severely_underweight"> Très Grave Déficite Pondérale</string>
+    <string name="severely_underweight">Grave Déficite Pondérale</string>
+    <string name="underweight">Déficite Pondérale</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">En surpoids</string>
+    <string name="obese_class_i">Obèse de classe I(Moderement obèse)</string>
+    <string name="obese_class_ii">Obèse de classe II(Trés obèse)</string>
+    <string name="obese_class_iii">Obèse de classe III(Tres Tres obèse)</string>
+
+
+</resources>
